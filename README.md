@@ -1,11 +1,14 @@
 # Self-Supervised Multi-Label Transformation Prediction for Video Representation Learning
 This is the implementation for "**MLTP: Self-Supervised Multi-Label Transformation Prediction for Video Representation Learning**". The paper can be found [here](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501596)
 
-### 2. Proposed Proxy Task
+### Proposed Proxy Task
 
 <div style='float: center'>
   <img style='width: 1000px' src="./figures/old_results/mltp.png"></img>
 </div>
+
+### Qualitative Results
+
 
 
 ## Citation
