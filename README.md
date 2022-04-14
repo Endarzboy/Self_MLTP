@@ -7,6 +7,20 @@ This is the implementation for "**MLTP: Self-Supervised Multi-Label Transformati
   <img style='width: 1000px' src="./figures/old_results/mltp.png"></img>
 </div>
 
+
+If you want to run the *MLTP pre-training*, run the following command,
+```
+python main.py
+```
+If you want to run the *Fine-tuning*, run the following command,
+``` 
+python inference.py
+```
+If you want to run the *Fine-tuning*, run the following command,
+```
+python fine_tune.py
+```
+
 ### Qualitative Results
 
 
