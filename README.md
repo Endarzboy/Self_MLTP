@@ -4,7 +4,7 @@ This is the implementation for "**MLTP: Self-Supervised Multi-Label Transformati
 ### The Proposed Proxy Task
 
 <div style='float: center'>
-  <img style='width: 1000px' src="./figures/old_results/mltp.png"></img>
+  <img style='width: 600px' src="./figures/old_results/mltp.png"></img>
 </div>
 
 ### Qualitative Results
@@ -12,12 +12,12 @@ Can MLTP learn spatiotemporal representations?
 Class Activation Maps (Grad-CAM) of *Baseball player* video frames generated from the pre-trained MLTP-R3D18
 backbone.
 <div style='float: center'>
-  <img style='width: 1000px' src="./figures/old_results/channel_attention.png"></img>
+  <img style='width: 600px' src="./figures/old_results/channel_attention.png"></img>
 </div>
 
 Generalization capability of MLTP-R3D18 on three unseen action classes.
 <div style='float: center'>
-  <img style='width: 1000px' src="./figures/old_results/temporal_attention.png"></img>
+  <img style='width: 00px' src="./figures/old_results/temporal_attention.png"></img>
 </div>
 
 Run the following commands,
