@@ -17,7 +17,7 @@ backbone.
 
 Generalization capability of MLTP-R3D18 on three unseen action classes.
 <div style='float: center'>
-  <img style='width: 00px' src="./figures/old_results/temporal_attention.png"></img>
+  <img style='width: 600px' src="./figures/old_results/temporal_attention.png"></img>
 </div>
 
 Run the following commands,
