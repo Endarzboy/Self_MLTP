@@ -7,17 +7,6 @@ This is the implementation for "**MLTP: Self-Supervised Multi-Label Transformati
   <img style='width: 1000px' src="./figures/old_results/mltp.png"></img>
 </div>
 
-Run the following commands,
-```
-python main.py
-```
-``` 
-python inference.py
-```
-```
-python fine_tune.py
-```
-
 ### Qualitative Results
 Can MLTP learn spatiotemporal representations?
 Class Activation Maps (Grad-CAM) of *Baseball player* video frames generated from the pre-trained MLTP-R3D18
@@ -31,6 +20,16 @@ Generalization capability of MLTP-R3D18 on three unseen action classes.
   <img style='width: 1000px' src="./figures/old_results/temporal_attention.png"></img>
 </div>
 
+Run the following commands,
+```
+python main.py
+```
+``` 
+python inference.py
+```
+```
+python fine_tune.py
+```
 
 ## Citation
 If you find this code useful for your research, please cite our paper:
