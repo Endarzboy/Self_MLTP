@@ -1,5 +1,5 @@
 # Self-Supervised Multi-Label Transformation Prediction for Video Representation Learning
-This is the implementation for "**MLTP: Self-Supervised Multi-Label Transformation Prediction for Video Representation Learning**". The paper can be found [https://doi.org/10.1142/S0218126622501596](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501596)
+A PyTorch implementation of "**MLTP: Self-Supervised Multi-Label Transformation Prediction for Video Representation Learning**". The paper can be found at [https://doi.org/10.1142/S0218126622501596](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501596)
 
 ### The Proposed Proxy Task
 
