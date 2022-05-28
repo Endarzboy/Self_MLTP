@@ -7,7 +7,7 @@ This is the implementation for "**MLTP: Self-Supervised Multi-Label Transformati
   <img style='width: 600px' src="./figures/old_results/mltp.png"></img>
 </div>
 
-### Qualitative Results
+<!-- ### Qualitative Results
 Can MLTP learn spatiotemporal representations?
 Class Activation Maps (Grad-CAM) of *Baseball player* video frames generated from the pre-trained MLTP-R3D18
 backbone.
@@ -18,7 +18,7 @@ backbone.
 Generalization capability of MLTP-R3D18 on three unseen action classes.
 <div style='float: center'>
   <img style='width: 600px' src="./figures/old_results/temporal_attention.png"></img>
-</div>
+</div> -->
 
 Run the following commands,
 ```
